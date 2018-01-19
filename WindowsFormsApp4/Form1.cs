@@ -27,7 +27,7 @@ namespace WindowsFormsApp4
             {
                 adi = txtad.Text,
                 ucret = Convert.ToInt32(txtucret.Text),
-                dogumyili = Convert.ToInt32(13),
+                dogumyili = dogumTarihi.Year,
                 cisiyet = comboBox1.Text,
             };
             hasta.YasHesapla();

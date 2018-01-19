@@ -18,6 +18,7 @@ namespace WindowsFormsApp4
 
         public void YasHesapla()
         {
+            //hıkjtwıeropsjhkrşts
             yas = DateTime.Now.Year - dogumyili;
         }
         public void IndirimliUcretHesapla()
